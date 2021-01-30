@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/Fees-1044x493.png
     image_alt: App preview
     title: WHY BLOCKFUND?
     content: >
