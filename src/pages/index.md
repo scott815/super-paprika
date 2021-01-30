@@ -23,7 +23,7 @@ sections:
       quis lorem malesuada luctus.
     features:
       - title: Objective and Suitability
-        image: images/feature1.png
+        image: images/Objective-1044x542.png
         image_alt: App preview on a phone and tablet
         content: >
           The primary objective of this fund is to deliver long term capital
