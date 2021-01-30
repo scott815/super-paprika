@@ -63,10 +63,13 @@ sections:
       - title: Fees and Benchmarks
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          The fund will incur no annual management fee. Further, there will be
+          no performance fees attached due to the passive nature of the fund. As
+          a result of zero performance fee, there is no specific benchmark the
+          fund aims to outperform. For comparative purposes however, the fund
+          will be benchmarked against the performance of the top 20 cryptoassets
+          equally weighted and Bitcoin itself.
         actions:
           - label: Learn More
             url: /features
