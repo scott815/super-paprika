@@ -61,7 +61,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Fees and Benchmarks
-        image: images/feature3.png
+        image: images/Fees-1044x493.png
         image_alt: App user profile preview
         content: >
           The fund will incur no annual management fee. Further, there will be
