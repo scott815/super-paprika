@@ -109,10 +109,7 @@ sections:
       and with it comes voting rights. All exclusive holders will benefit from
       this and have the opportunity to vote on the additions and rejections of
       particular assets.
-    actions:
-      - label: Get Started
-        url: /signup
-        style: primary
+    actions: []
   - section_id: recent-posts
     type: section_posts
     background: gray
