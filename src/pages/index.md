@@ -6,9 +6,10 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: WHY BLOCKFUND?
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: >
+      Crypto currencies have grown exponentially since their creation in 2009,
+      with the total crypto currency market capitalization currently standing at
+      over $1 trillion.
     actions:
       - label: Learn More
         url: /features
