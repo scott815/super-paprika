@@ -44,10 +44,15 @@ sections:
       - title: Strategy
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          The Fund follows a passive strategy, with the fund parameters and
+          rebalancing policy expertly curated through data science techniques.
+          Blockfund is invested 43 cryptoassets by market capitalization, with
+          weekly rebalancing. A maximum component weighting of 10% is utilized
+          to prevent any single asset, and thus single source of risk, from
+          dominating the portfolio. The fund will utilize assets in the form of
+          staking and other such methods to generate additional return over and
+          above capital appreciation.
         actions:
           - label: Learn More
             url: /features
