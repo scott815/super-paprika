@@ -25,8 +25,15 @@ sections:
       - title: Objective and Suitability
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: |
-          Objective and Suitability
+        content: >
+          The primary objective of this fund is to deliver long term capital
+          growth while being 100% invested in the cryptoasset class. The fund is
+          suitable for medium to long-term investors seeking high levels of
+          exposure to 43 cryptoassets by market capitalisation. The fund aims to
+          provide investors with an enhanced risk-return measure relative to a
+          pure market-cap weighted strategy of 43. Investors should expect
+          moderately high levels of volatility and potential drawdown of their
+          investment.
         actions:
           - label: Learn More
             url: /features
