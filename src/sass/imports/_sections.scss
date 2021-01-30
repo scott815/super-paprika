@@ -565,10 +565,43 @@
     }
   }
 
+  &.bg-gray {
+    background:$color-5;
+    color: #fff;
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    blockquote,
+    caption,
+    th {
+      color: inherit;
+    }
+    a {
+      &:not(.button) {
+        color: #fff;
+  
+        &:hover {
+          color: #fff;
+          opacity: 0.8;
+        }
+      }
+    }
+
+    .card,
+    .handorgel__header,
+    .handorgel__content-inner {
+      box-shadow: $box-shadow-white-bg;
+    }
+  }
+
+
   &.bg-accent {
     background: $color-primary;
-    background: -webkit-gradient(linear, left top, right top, from($color-primary), to($color-secondary));
-    background: linear-gradient(to right,$color-primary, $color-secondary);
+    background: -webkit-gradient(linear, left top, right top, from($color-4), to($color-5));
+    background: linear-gradient(to right,$color-4, $color-5);
     color: #fff;
 
     a {
