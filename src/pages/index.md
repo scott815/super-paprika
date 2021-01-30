@@ -104,7 +104,11 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: GOVERNANCE
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      Each BLOX coin represents an exclusive share of the overall fund invested
+      and with it comes voting rights. All exclusive holders will benefit from
+      this and have the opportunity to vote on the additions and rejections of
+      particular assets.
     actions:
       - label: Get Started
         url: /signup
