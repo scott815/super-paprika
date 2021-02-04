@@ -3,7 +3,6 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/WhyBlockFund-1085x792.png
     image_alt: App preview
     title: WHY BLOCKFUND?
     content: >
