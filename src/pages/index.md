@@ -13,7 +13,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-    image: images/WhyBlockFund-1085x792 (1).png
+    image: images/WhyBlockFund-600w.png
   - section_id: features
     type: section_features
     background: gray
