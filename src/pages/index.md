@@ -42,7 +42,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Strategy
-        image: images/Strategy-1003x696.png
+        image: images/famous-aluminum.png
         image_alt: App users welcoming a new member
         content: >
           The Fund follows a passive strategy, with the fund parameters and
