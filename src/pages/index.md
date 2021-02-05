@@ -120,17 +120,16 @@ sections:
     background: white
     features:
       - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          The fund has been designed with exclusivity in mind and will only ever
+          have 99 participants. Once this number has been reached no further
+          investors will be onboarded unless a current investor cashes out for
+          good this making a space available for new blood.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          All investors will receive a custom investor card manufactured from
+          gold as well as a personalized NFT backed with $1000 of cryptocurrency
+          which they are able to keep or melt when they so desire. 
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
