@@ -135,6 +135,6 @@ sections:
     background: white
     title: Latest Posts
 meta_title: Stackbit Azimuth Theme
-meta_description: The preview of the Azimuth theme
+meta_description: BloxFund
 template: landing
 ---
