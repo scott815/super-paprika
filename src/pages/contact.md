@@ -37,5 +37,6 @@ sections:
           can be contacted.
         is_required: true
     submit_label: Send Message
+    hide_labels: true
 template: landing
 ---
