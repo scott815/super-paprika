@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image_alt: App preview
-    title: WHY BLOCKFUND?
+    title: WHY BLOXFUND?
     content: >
       Crypto currencies have grown exponentially since their creation in 2009,
       with the total crypto currency market capitalization currently standing at
