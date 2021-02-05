@@ -115,7 +115,7 @@ sections:
     background: white
     title: Latest Posts
   - section_id: lorem-ipsum
-    title: 99 Members only
+    title: ''
     subtitle: ''
     background: white
     features:
