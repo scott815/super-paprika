@@ -24,7 +24,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - ROm
+          - More info
           - Sponsorship
           - Other
       - input_type: textarea
