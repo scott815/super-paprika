@@ -77,6 +77,26 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+  - section_id: 99 Members
+    title: ''
+    subtitle: ''
+    background: white
+    features:
+      - title: 99 Members only
+        content: >
+          The fund has been designed with exclusivity in mind and will only ever
+          have 99 participants. Once this number has been reached no further
+          investors will be onboarded unless a current investor cashes out for
+          good this making a space available for new blood.
+
+
+          All investors will receive a custom investor card manufactured from
+          gold as well as a personalized NFT backed with $1000 of cryptocurrency
+          which they are able to keep or melt when they so desire. 
+        image_alt: lorem-ipsum
+        actions: []
+        type: feature_item
+    type: section_features
   - section_id: reviews
     type: section_reviews
     background: white
@@ -114,26 +134,6 @@ sections:
     type: section_posts
     background: white
     title: Latest Posts
-  - section_id: 99 Members
-    title: ''
-    subtitle: ''
-    background: white
-    features:
-      - title: 99 Members only
-        content: >
-          The fund has been designed with exclusivity in mind and will only ever
-          have 99 participants. Once this number has been reached no further
-          investors will be onboarded unless a current investor cashes out for
-          good this making a space available for new blood.
-
-
-          All investors will receive a custom investor card manufactured from
-          gold as well as a personalized NFT backed with $1000 of cryptocurrency
-          which they are able to keep or melt when they so desire. 
-        image_alt: lorem-ipsum
-        actions: []
-        type: feature_item
-    type: section_features
 meta_title: Stackbit Azimuth Theme
 meta_description: The preview of the Azimuth theme
 template: landing
