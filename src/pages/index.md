@@ -134,7 +134,7 @@ sections:
     type: section_posts
     background: white
     title: Latest Posts
-meta_title: Stackbit Azimuth Theme
+meta_title: 'BloxFund '
 meta_description: BloxFund
 template: landing
 ---
