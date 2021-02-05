@@ -25,7 +25,7 @@ sections:
         default_value: Please select
         options:
           - More info
-          - Sponsorship
+          - Ready to Join
           - Other
       - input_type: textarea
         name: message
