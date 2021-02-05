@@ -119,7 +119,7 @@ sections:
     subtitle: lorem-ipsum
     background: white
     features:
-      - title: lorem-ipsum
+      - title: 99 Members only
         content: >
           The fund has been designed with exclusivity in mind and will only ever
           have 99 participants. Once this number has been reached no further
