@@ -1,6 +1,6 @@
 ---
 title: One Pager
-meta_title: lorem-ipsum
+meta_title: One Pager
 meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
 no_index: false
