@@ -7,7 +7,7 @@ no_index: false
 sections:
   - section_id: lorem-ipsum
     title: The Best Features of Your Services
-    subtitle: lorem-ipsum
+    subtitle: The Best Features of Your Services
     background: gray
     features: []
     type: section_features
