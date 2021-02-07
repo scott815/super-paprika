@@ -6,7 +6,7 @@ canonical_url: lorem-ipsum
 no_index: false
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: The Best Features of Your Services
     subtitle: lorem-ipsum
     background: gray
     features: []
