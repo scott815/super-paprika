@@ -38,4 +38,5 @@ sections:
         url: '#'
         style: secondary
 template: landing
+meta_title: Blox Fund - One Pager
 ---
