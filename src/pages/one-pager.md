@@ -6,7 +6,7 @@ canonical_url: lorem-ipsum
 no_index: false
 sections:
   - section_id: lorem-ipsum
-    title: The Best Features of Your Services
+    title: One Pager
     subtitle: The Best Features of Your Services
     background: gray
     features: []
