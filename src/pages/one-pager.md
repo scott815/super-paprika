@@ -7,7 +7,7 @@ no_index: false
 sections:
   - section_id: lorem-ipsum
     title: One Pager
-    subtitle: The Best Features of Your Services
+    subtitle: Text goes here
     background: gray
     features: []
     type: section_features
