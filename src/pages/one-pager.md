@@ -10,7 +10,7 @@ sections:
     subtitle: Text goes here
     background: gray
     features:
-      - title: lorem-ipsum
+      - title: One Pager
         content: >-
           ## Lorem ipsum
 
