@@ -24,7 +24,7 @@ sections:
           *   dolor sit amet
         image_alt: lorem-ipsum
         actions:
-          - label: lorem-ipsum
+          - label: Download now
             url: lorem-ipsum
             style: primary
             has_icon: false
