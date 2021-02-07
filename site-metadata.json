@@ -17,11 +17,6 @@
                 "style": "link"
             },
             {
-                "label": "White Paper",
-                "url": "/pricing",
-                "style": "link"
-            },
-            {
                 "label": "Contact",
                 "url": "/contact",
                 "style": "primary"
