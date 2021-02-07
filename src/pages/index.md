@@ -104,10 +104,6 @@ sections:
       this and have the opportunity to vote on the additions and rejections of
       particular assets.
     actions: []
-  - section_id: recent-posts
-    type: section_posts
-    background: white
-    title: Latest Posts
 meta_title: 'BloxFund '
 meta_description: BloxFund
 template: landing
