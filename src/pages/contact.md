@@ -19,6 +19,13 @@ sections:
         name: email
         label: Email
         is_required: true
+      - input_type: tel
+        name: Telephone
+        label: Telephone
+        default_value: ''
+        options: []
+        is_required: true
+        type: form_field
       - input_type: select
         name: subject
         label: Subject
@@ -36,13 +43,6 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
         is_required: true
-      - input_type: tel
-        name: Telephone
-        label: Telephone
-        default_value: ''
-        options: []
-        is_required: true
-        type: form_field
     submit_label: Send Message
     hide_labels: false
 template: landing
