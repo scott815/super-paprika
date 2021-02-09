@@ -73,13 +73,7 @@ sections:
           fund aims to outperform. For comparative purposes however, the fund
           will be benchmarked against the performance of the top 20 cryptoassets
           equally weighted and Bitcoin itself.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
   - section_id: call-to-action
     type: section_cta
     title: GOVERNANCE
