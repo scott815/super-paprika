@@ -39,7 +39,7 @@ sections:
       - input_type: tel
         name: Telephone
         label: Telephone
-        default_value: lorem-ipsum
+        default_value: ''
         options: []
         is_required: false
         type: form_field
