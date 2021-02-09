@@ -24,12 +24,12 @@ sections:
           The fund has been designed with exclusivity in mind and will only ever
           have 99 participants. Once this number has been reached no further
           investors will be onboarded unless a current investor cashes out for
-          good this making a space available for new blood.
+          good thus making a space available for new blood.
 
 
           All investors will receive a custom investor card manufactured from
           gold as well as a personalized NFT backed with $1000 of cryptocurrency
-          which they are able to keep or melt when they so desire. 
+          which they are able to keep or melt when they so desire.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
