@@ -62,13 +62,7 @@ sections:
           dominating the portfolio. The fund will utilize assets in the form of
           staking and other such methods to generate additional return over and
           above capital appreciation.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Fees and Benchmarks
         image: images/fees600w.png
         image_alt: App user profile preview
