@@ -49,13 +49,7 @@ sections:
           pure market-cap weighted strategy of 43. Investors should expect
           moderately high levels of volatility and potential drawdown of their
           investment.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Strategy
         image: images/Strategy-600w.png
         image_alt: App users welcoming a new member
