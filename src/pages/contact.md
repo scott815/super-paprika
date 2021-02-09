@@ -37,7 +37,7 @@ sections:
           can be contacted.
         is_required: true
       - input_type: tel
-        name: lorem-ipsum
+        name: Telephone
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
