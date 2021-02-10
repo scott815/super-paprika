@@ -12,7 +12,7 @@ sections:
     features:
       - title: One Pager
         content: >
-          ### Download our One pager here
+          ### Download Our One pager Here
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
