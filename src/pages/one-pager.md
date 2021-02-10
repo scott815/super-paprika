@@ -27,7 +27,7 @@ sections:
           - label: Download now
             url: ''
             style: primary
-            has_icon: true
+            has_icon: false
             icon: arrow-left
             icon_position: left
             new_window: true
