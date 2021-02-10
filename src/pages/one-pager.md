@@ -25,7 +25,7 @@ sections:
         image_alt: lorem-ipsum
         actions:
           - label: Download now
-            url: /docs/
+            url: /documents/BlockFundOnePager1.pdf
             style: primary
             has_icon: false
             icon: arrow-left
