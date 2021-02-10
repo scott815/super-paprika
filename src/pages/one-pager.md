@@ -7,7 +7,7 @@ no_index: false
 sections:
   - section_id: lorem-ipsum
     title: ''
-    subtitle: Text goes here
+    subtitle: ''
     background: gray
     features:
       - title: One Pager
