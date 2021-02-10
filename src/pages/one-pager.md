@@ -6,7 +6,7 @@ canonical_url: lorem-ipsum
 no_index: false
 sections:
   - section_id: lorem-ipsum
-    title: One Pager
+    title: ''
     subtitle: Text goes here
     background: gray
     features:
