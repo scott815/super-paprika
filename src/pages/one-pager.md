@@ -34,7 +34,7 @@ sections:
             no_follow: false
             type: action
         type: feature_item
-        image: images/hero.png
+        image: images/One-Pager-846x539.png
     type: section_features
 template: landing
 ---
