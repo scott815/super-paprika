@@ -67,12 +67,13 @@ sections:
         image: images/fees600w.png
         image_alt: App user profile preview
         content: >
-          The fund will incur no annual management fee. Further, there will be
-          no performance fees attached due to the passive nature of the fund. As
-          a result of zero performance fee, there is no specific benchmark the
-          fund aims to outperform. For comparative purposes however, the fund
-          will be benchmarked against the performance of the top 20 cryptoassets
-          equally weighted and Bitcoin itself.
+          Your initial stake will be locked for 6 months. A 2.5% fee will be
+          levied on your initial investment as you stake. After the initial 6
+          month period, 7.5% will be taken on any profits. 
+
+          Your profits will be converted to USDC. You may then choose to
+          re-stake your initial investment along with your profits should you
+          wish.
         actions: []
   - section_id: call-to-action
     type: section_cta
