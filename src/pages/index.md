@@ -39,7 +39,7 @@ sections:
         image_alt: lorem-ipsum
         actions:
           - label: Contact Us
-            url: lorem-ipsum
+            url: /contact
             style: link
             has_icon: false
             icon: arrow-left
