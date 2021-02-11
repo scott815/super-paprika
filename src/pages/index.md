@@ -9,7 +9,16 @@ sections:
       Crypto currencies have grown exponentially since their creation in 2009,
       with the total crypto currency market capitalization currently standing at
       over $1 trillion.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+        type: action
     image: images/WhyBlockFund-600w.png
   - section_id: 99 Members
     title: ''
