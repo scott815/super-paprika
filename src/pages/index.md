@@ -37,7 +37,16 @@ sections:
           gold as well as a personalized NFT backed with $1000 of cryptocurrency
           which they are able to keep or melt when they so desire.
         image_alt: lorem-ipsum
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
         type: feature_item
     type: section_features
   - section_id: features
