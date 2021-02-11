@@ -38,7 +38,7 @@ sections:
           which they are able to keep or melt when they so desire.
         image_alt: lorem-ipsum
         actions:
-          - label: lorem-ipsum
+          - label: Contact Us
             url: lorem-ipsum
             style: link
             has_icon: false
