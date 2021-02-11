@@ -11,7 +11,7 @@ sections:
       over $1 trillion.
     actions:
       - label: Learn More
-        url: lorem-ipsum
+        url: /one-pager
         style: secondary
         has_icon: false
         icon: arrow-left
