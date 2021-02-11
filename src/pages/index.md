@@ -69,7 +69,7 @@ sections:
         content: >
           Your initial stake will be locked for 6 months. A 2.5% fee will be
           levied on your initial investment as you stake. After the initial 6
-          month period, 7.5% will be taken on any profits. 
+          month period, 7.5% will be taken on any profits.
 
           Your profits will be converted to USDC. You may then choose to
           re-stake your initial investment along with your profits should you
