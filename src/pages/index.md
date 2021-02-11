@@ -10,7 +10,7 @@ sections:
       with the total crypto currency market capitalization currently standing at
       over $1 trillion.
     actions:
-      - label: lorem-ipsum
+      - label: Learn More
         url: lorem-ipsum
         style: secondary
         has_icon: false
