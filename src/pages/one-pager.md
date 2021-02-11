@@ -15,13 +15,8 @@ sections:
           ### Download Our One pager Here
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+          Please check out our One-Pager for more specifics on how we function
+          and for a breakdown of fees and investment strategy
         image_alt: lorem-ipsum
         actions:
           - label: Download now
